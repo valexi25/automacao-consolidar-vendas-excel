@@ -27,6 +27,7 @@ Para executar este projeto, você precisa instalar as bibliotecas necessárias. 
 ```bash
 pip install pandas openpyxl pywin32
 
+--
 ## 🚀 Como Usar
 
 1.  Clone este repositório para o seu computador.
